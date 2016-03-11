@@ -19,7 +19,7 @@ import pl.jwieczorek.View.MainForm;
  * @author Jakub Wieczorek
  * @version 1.0.1
  */
-public class PrzychodniaApp {
+public class PrzychodniaApp { //heheszki
 
     /**
      * Main program function. 
