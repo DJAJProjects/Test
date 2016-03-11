@@ -1,0 +1,8 @@
+Program obslugujacy dzialanie przychodni. 
+Obecnie mo¿liwe jest dodawanie doktorów, dodawanie pacjentów, usuwanie wszystkich doktorów, usuwanie wszystkich pacjentów.
+Dane przechowywane s¹ w plikach tekstowych.
+Jakub 
+Wieczorek
+Grupa IV
+Termin oddania: 23.11.2015 (przed rozpoczeciem kolejnych laboratoriów)
+Data oddania: 23.11.2015 (przed rozpoczeciem kolejnych laboratoriów)
